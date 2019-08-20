@@ -1,0 +1,9 @@
+
+ Our project is a game which is created by me and my team member. The game is very simple and fun to play.It is about a bee collecting honey from flowers. This is a unique game which is singleplayer. This game is made with openGL 3D invironment.
+
+This game has a 3D bee and flowers which is drawn and there is a honey meter.Basically there will be a bee which will moves around and collect honey from flower.Honey meter gather honey which collected by bee.If the flower is infected and if you take honey from that flower the you will be out.GAME IS OVER! 
+Bee can be controlled by keyboard(Left arrow,Right arrow,up arraw ,down arrow,page up,page down).You need to control bee to sit on the flower.
+
+Score depends on how many flower’s honey  bee can take.Winner will announced if honey meter is full.Infected flowers honey will finished your game.          
+
+
